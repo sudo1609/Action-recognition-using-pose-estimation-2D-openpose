@@ -3,6 +3,7 @@
 # Introduction
 * Used pre-trained models of OpenPose
 * The model used OpenCV to read pre-trained so it was very slow because Opencv does not support GPU and hard to run in real-time. So if you want to run in real-time, you should read model with the orginal caffe.
+* other repo about my action recognition: [here](https://github.com/TheK2NumberOne/action-recognition-project)
 
 # Training with own dataset:
 * Prepare data(actions) by running main.py, remember to uncomment the code of data collecting, the data will be saved as a .txt
