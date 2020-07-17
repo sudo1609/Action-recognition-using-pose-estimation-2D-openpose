@@ -7,7 +7,7 @@
 
 # Training with own dataset:
 * Prepare data(actions) by running main.py, remember to uncomment the code of data collecting, the data will be saved as a .txt
-* Do the training with the action-openpose.ipynb== in ==action/action_training/
+* Do the training with the #action-openpose.ipynb in #/action/action_training/
 
 # steps to take:
 * Use Opencv to get all coordinates of joints on the human body
