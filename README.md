@@ -1,7 +1,7 @@
 # Action-recognition-using-pose-estimation-2D-openpose
 
 # Introduction
-* Used pre-trained models of OpenPose
+* Used pre-trained of OpenPose
 * The model used OpenCV to read pre-trained so it was very slow because Opencv does not support GPU and hard to run in real-time. So if you want to run in real-time, you should read model with the orginal caffe.
 * other repo about my action recognition: [here](https://github.com/TheK2NumberOne/action-recognition-project)
 
